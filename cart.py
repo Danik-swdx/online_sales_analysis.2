@@ -3,6 +3,7 @@
 from product import Product
 
 class Cart:
+    
     def __init__(self):
         self.cart_items = []
 
